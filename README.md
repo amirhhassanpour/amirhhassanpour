@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirhhassanpour
+- 👋 Hi, I’m Amir (@amirhhassanpour)
 - 👀 I’m interested in sustainable transportation (cycling)
 - 🌱 I’m currently learning Python
 - 📫 Reach me at amirhhm[at]student[dot]ubc[dot]ca
